@@ -1,4 +1,4 @@
-<h1 align="center">pymail</h1>
+<h1 align="center">PYMAIL</h1>
 <p align="center">Send email from command line</p>
 <p align="center">
 
